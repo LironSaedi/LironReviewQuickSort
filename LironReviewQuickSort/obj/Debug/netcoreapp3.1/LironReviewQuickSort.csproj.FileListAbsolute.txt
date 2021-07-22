@@ -1,0 +1,13 @@
+E:\LironReviewQuickSort\LironReviewQuickSort\bin\Debug\netcoreapp3.1\LironReviewQuickSort.exe
+E:\LironReviewQuickSort\LironReviewQuickSort\bin\Debug\netcoreapp3.1\LironReviewQuickSort.deps.json
+E:\LironReviewQuickSort\LironReviewQuickSort\bin\Debug\netcoreapp3.1\LironReviewQuickSort.runtimeconfig.json
+E:\LironReviewQuickSort\LironReviewQuickSort\bin\Debug\netcoreapp3.1\LironReviewQuickSort.runtimeconfig.dev.json
+E:\LironReviewQuickSort\LironReviewQuickSort\bin\Debug\netcoreapp3.1\LironReviewQuickSort.dll
+E:\LironReviewQuickSort\LironReviewQuickSort\bin\Debug\netcoreapp3.1\LironReviewQuickSort.pdb
+E:\LironReviewQuickSort\LironReviewQuickSort\obj\Debug\netcoreapp3.1\LironReviewQuickSort.csprojAssemblyReference.cache
+E:\LironReviewQuickSort\LironReviewQuickSort\obj\Debug\netcoreapp3.1\LironReviewQuickSort.AssemblyInfoInputs.cache
+E:\LironReviewQuickSort\LironReviewQuickSort\obj\Debug\netcoreapp3.1\LironReviewQuickSort.AssemblyInfo.cs
+E:\LironReviewQuickSort\LironReviewQuickSort\obj\Debug\netcoreapp3.1\LironReviewQuickSort.csproj.CoreCompileInputs.cache
+E:\LironReviewQuickSort\LironReviewQuickSort\obj\Debug\netcoreapp3.1\LironReviewQuickSort.dll
+E:\LironReviewQuickSort\LironReviewQuickSort\obj\Debug\netcoreapp3.1\LironReviewQuickSort.pdb
+E:\LironReviewQuickSort\LironReviewQuickSort\obj\Debug\netcoreapp3.1\LironReviewQuickSort.genruntimeconfig.cache
